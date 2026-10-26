@@ -1,0 +1,301 @@
+Date,Product,Category,Quantity,Price,Region
+2026-04-03,Pen Set,Stationery,18,250,East
+2026-04-05,Office Chair,Furniture,3,8500,South
+2026-04-05,Notebook,Stationery,26,120,North
+2026-04-06,Headphones,Electronics,6,3000,North
+2026-04-06,Notebook,Stationery,36,120,South
+2026-04-07,Notebook,Stationery,29,120,West
+2026-04-08,Pen Set,Stationery,30,250,North
+2026-04-10,Smartphone,Electronics,2,22000,West
+2026-04-10,Notebook,Stationery,51,120,West
+2026-04-13,Headphones,Electronics,1,3000,West
+2026-04-13,Pen Set,Stationery,18,250,South
+2026-04-14,Headphones,Electronics,5,3000,North
+2026-04-14,Notebook,Stationery,21,120,South
+2026-04-14,Headphones,Electronics,5,3000,West
+2026-04-15,Pen Set,Stationery,11,250,North
+2026-04-15,Smartphone,Electronics,2,22000,West
+2026-04-16,Office Chair,Furniture,1,8500,East
+2026-04-16,Office Chair,Furniture,3,8500,North
+2026-04-17,Smartphone,Electronics,1,22000,West
+2026-04-17,Pen Set,Stationery,15,250,South
+2026-04-17,Laptop,Electronics,1,55000,North
+2026-04-17,Notebook,Stationery,40,120,South
+2026-04-17,Office Chair,Furniture,2,8500,South
+2026-04-18,Smartphone,Electronics,2,22000,West
+2026-04-19,Pen Set,Stationery,8,250,South
+2026-04-19,Smartphone,Electronics,2,22000,North
+2026-04-19,Notebook,Stationery,37,120,North
+2026-04-19,Headphones,Electronics,1,3000,North
+2026-04-20,Office Chair,Furniture,3,8500,West
+2026-04-20,Pen Set,Stationery,19,250,West
+2026-04-21,Study Desk,Furniture,3,12000,South
+2026-04-21,Pen Set,Stationery,15,250,North
+2026-04-22,Pen Set,Stationery,5,250,North
+2026-04-23,Smartphone,Electronics,3,22000,North
+2026-04-24,Notebook,Stationery,26,120,South
+2026-04-24,Smartphone,Electronics,3,22000,North
+2026-04-24,Notebook,Stationery,35,120,East
+2026-04-24,Office Chair,Furniture,3,8500,South
+2026-04-27,Notebook,Stationery,57,120,North
+2026-04-27,Smartphone,Electronics,2,22000,North
+2026-04-28,Pen Set,Stationery,6,250,North
+2026-04-28,Headphones,Electronics,2,3000,South
+2026-04-29,Headphones,Electronics,1,3000,North
+2026-04-29,Notebook,Stationery,24,120,South
+2026-05-01,Pen Set,Stationery,30,250,East
+2026-05-01,Pen Set,Stationery,11,250,East
+2026-05-02,Study Desk,Furniture,1,12000,South
+2026-05-02,Smartphone,Electronics,3,22000,West
+2026-05-03,Notebook,Stationery,42,120,West
+2026-05-03,Headphones,Electronics,1,3000,East
+2026-05-05,Headphones,Electronics,2,3000,South
+2026-05-05,Notebook,Stationery,16,120,South
+2026-05-05,Office Chair,Furniture,2,8500,East
+2026-05-05,Laptop,Electronics,1,55000,West
+2026-05-06,Office Chair,Furniture,4,8500,South
+2026-05-06,Notebook,Stationery,28,120,South
+2026-05-07,Headphones,Electronics,2,3000,West
+2026-05-07,Office Chair,Furniture,4,8500,North
+2026-05-08,Laptop,Electronics,2,55000,East
+2026-05-08,Headphones,Electronics,6,3000,East
+2026-05-08,Headphones,Electronics,2,3000,South
+2026-05-09,Headphones,Electronics,2,3000,North
+2026-05-09,Notebook,Stationery,32,120,East
+2026-05-09,Notebook,Stationery,30,120,West
+2026-05-10,Study Desk,Furniture,1,12000,North
+2026-05-10,Pen Set,Stationery,25,250,East
+2026-05-12,Notebook,Stationery,42,120,South
+2026-05-12,Smartphone,Electronics,1,22000,South
+2026-05-12,Notebook,Stationery,24,120,East
+2026-05-13,Headphones,Electronics,2,3000,South
+2026-05-14,Pen Set,Stationery,5,250,North
+2026-05-15,Headphones,Electronics,1,3000,North
+2026-05-16,Office Chair,Furniture,3,8500,West
+2026-05-17,Headphones,Electronics,2,3000,West
+2026-05-17,Office Chair,Furniture,1,8500,North
+2026-05-17,Headphones,Electronics,3,3000,East
+2026-05-17,Laptop,Electronics,2,55000,West
+2026-05-18,Pen Set,Stationery,20,250,South
+2026-05-18,Notebook,Stationery,14,120,North
+2026-05-19,Smartphone,Electronics,1,22000,South
+2026-05-20,Notebook,Stationery,35,120,East
+2026-05-20,Headphones,Electronics,2,3000,North
+2026-05-20,Laptop,Electronics,1,55000,East
+2026-05-21,Headphones,Electronics,4,3000,East
+2026-05-21,Office Chair,Furniture,2,8500,North
+2026-05-21,Headphones,Electronics,1,3000,West
+2026-05-22,Office Chair,Furniture,2,8500,South
+2026-05-22,Headphones,Electronics,1,3000,North
+2026-05-23,Office Chair,Furniture,4,8500,West
+2026-05-25,Laptop,Electronics,1,55000,North
+2026-05-26,Laptop,Electronics,1,55000,South
+2026-05-27,Notebook,Stationery,16,120,South
+2026-05-27,Smartphone,Electronics,1,22000,South
+2026-05-27,Smartphone,Electronics,2,22000,East
+2026-05-29,Headphones,Electronics,4,3000,South
+2026-05-29,Office Chair,Furniture,3,8500,East
+2026-05-30,Notebook,Stationery,16,120,East
+2026-05-30,Pen Set,Stationery,16,250,North
+2026-05-31,Notebook,Stationery,23,120,North
+2026-05-31,Study Desk,Furniture,1,12000,West
+2026-05-31,Smartphone,Electronics,3,22000,North
+2026-06-01,Notebook,Stationery,30,120,North
+2026-06-01,Pen Set,Stationery,10,250,North
+2026-06-03,Notebook,Stationery,54,120,West
+2026-06-03,Office Chair,Furniture,4,8500,South
+2026-06-04,Laptop,Electronics,1,55000,East
+2026-06-04,Smartphone,Electronics,3,22000,North
+2026-06-05,Headphones,Electronics,4,3000,West
+2026-06-06,Headphones,Electronics,5,3000,West
+2026-06-06,Pen Set,Stationery,11,250,West
+2026-06-06,Headphones,Electronics,5,3000,North
+2026-06-06,Headphones,Electronics,2,3000,North
+2026-06-08,Notebook,Stationery,12,120,South
+2026-06-08,Office Chair,Furniture,3,8500,North
+2026-06-09,Office Chair,Furniture,1,8500,North
+2026-06-10,Laptop,Electronics,1,55000,South
+2026-06-11,Pen Set,Stationery,18,250,West
+2026-06-11,Notebook,Stationery,32,120,East
+2026-06-11,Smartphone,Electronics,2,22000,West
+2026-06-12,Headphones,Electronics,6,3000,East
+2026-06-13,Smartphone,Electronics,1,22000,South
+2026-06-13,Notebook,Stationery,19,120,North
+2026-06-14,Headphones,Electronics,1,3000,South
+2026-06-14,Notebook,Stationery,42,120,North
+2026-06-15,Laptop,Electronics,1,55000,North
+2026-06-15,Smartphone,Electronics,3,22000,South
+2026-06-15,Headphones,Electronics,3,3000,South
+2026-06-15,Headphones,Electronics,1,3000,North
+2026-06-16,Study Desk,Furniture,3,12000,North
+2026-06-17,Notebook,Stationery,18,120,North
+2026-06-17,Pen Set,Stationery,25,250,North
+2026-06-18,Notebook,Stationery,24,120,South
+2026-06-19,Headphones,Electronics,2,3000,North
+2026-06-19,Pen Set,Stationery,5,250,North
+2026-06-19,Notebook,Stationery,34,120,West
+2026-06-19,Pen Set,Stationery,18,250,North
+2026-06-20,Headphones,Electronics,3,3000,East
+2026-06-20,Notebook,Stationery,25,120,South
+2026-06-20,Notebook,Stationery,42,120,North
+2026-06-22,Pen Set,Stationery,17,250,East
+2026-06-22,Smartphone,Electronics,3,22000,South
+2026-06-23,Notebook,Stationery,43,120,South
+2026-06-23,Smartphone,Electronics,1,22000,West
+2026-06-23,Smartphone,Electronics,2,22000,West
+2026-06-24,Laptop,Electronics,2,55000,West
+2026-06-24,Office Chair,Furniture,1,8500,North
+2026-06-25,Pen Set,Stationery,24,250,North
+2026-06-26,Pen Set,Stationery,18,250,West
+2026-06-27,Notebook,Stationery,28,120,East
+2026-06-27,Smartphone,Electronics,2,22000,South
+2026-06-27,Smartphone,Electronics,1,22000,West
+2026-06-28,Laptop,Electronics,2,55000,South
+2026-06-28,Notebook,Stationery,15,120,West
+2026-06-28,Pen Set,Stationery,9,250,North
+2026-06-30,Pen Set,Stationery,26,250,East
+2026-07-02,Smartphone,Electronics,3,22000,South
+2026-07-02,Notebook,Stationery,22,120,North
+2026-07-03,Smartphone,Electronics,1,22000,North
+2026-07-03,Laptop,Electronics,2,55000,South
+2026-07-04,Headphones,Electronics,5,3000,North
+2026-07-05,Notebook,Stationery,37,120,West
+2026-07-07,Pen Set,Stationery,9,250,North
+2026-07-07,Smartphone,Electronics,2,22000,South
+2026-07-09,Headphones,Electronics,2,3000,North
+2026-07-09,Smartphone,Electronics,3,22000,East
+2026-07-10,Smartphone,Electronics,3,22000,South
+2026-07-10,Notebook,Stationery,23,120,West
+2026-07-11,Laptop,Electronics,1,55000,North
+2026-07-11,Notebook,Stationery,19,120,East
+2026-07-12,Notebook,Stationery,15,120,East
+2026-07-14,Pen Set,Stationery,26,250,North
+2026-07-16,Office Chair,Furniture,3,8500,East
+2026-07-17,Study Desk,Furniture,3,12000,South
+2026-07-17,Pen Set,Stationery,6,250,West
+2026-07-17,Headphones,Electronics,3,3000,North
+2026-07-17,Office Chair,Furniture,4,8500,North
+2026-07-18,Laptop,Electronics,1,55000,West
+2026-07-18,Notebook,Stationery,40,120,West
+2026-07-20,Pen Set,Stationery,9,250,West
+2026-07-20,Headphones,Electronics,4,3000,South
+2026-07-21,Office Chair,Furniture,2,8500,North
+2026-07-21,Pen Set,Stationery,11,250,West
+2026-07-21,Pen Set,Stationery,18,250,North
+2026-07-24,Headphones,Electronics,4,3000,West
+2026-07-24,Notebook,Stationery,56,120,West
+2026-07-24,Smartphone,Electronics,3,22000,South
+2026-07-24,Laptop,Electronics,2,55000,West
+2026-07-24,Headphones,Electronics,3,3000,East
+2026-07-24,Study Desk,Furniture,1,12000,North
+2026-07-25,Study Desk,Furniture,3,12000,North
+2026-07-25,Office Chair,Furniture,2,8500,North
+2026-07-26,Notebook,Stationery,57,120,West
+2026-07-27,Smartphone,Electronics,1,22000,North
+2026-07-27,Headphones,Electronics,5,3000,North
+2026-07-28,Smartphone,Electronics,1,22000,North
+2026-07-29,Study Desk,Furniture,2,12000,South
+2026-07-29,Office Chair,Furniture,3,8500,North
+2026-07-29,Notebook,Stationery,19,120,East
+2026-07-29,Notebook,Stationery,45,120,North
+2026-07-29,Pen Set,Stationery,17,250,West
+2026-07-31,Smartphone,Electronics,2,22000,West
+2026-07-31,Notebook,Stationery,17,120,South
+2026-07-31,Headphones,Electronics,1,3000,West
+2026-07-31,Laptop,Electronics,2,55000,North
+2026-07-31,Office Chair,Furniture,1,8500,North
+2026-08-01,Study Desk,Furniture,1,12000,East
+2026-08-02,Study Desk,Furniture,2,12000,North
+2026-08-02,Headphones,Electronics,5,3000,West
+2026-08-03,Smartphone,Electronics,3,22000,West
+2026-08-03,Office Chair,Furniture,2,8500,North
+2026-08-04,Notebook,Stationery,35,120,North
+2026-08-04,Laptop,Electronics,2,55000,West
+2026-08-04,Headphones,Electronics,2,3000,East
+2026-08-05,Study Desk,Furniture,2,12000,West
+2026-08-05,Smartphone,Electronics,3,22000,East
+2026-08-05,Pen Set,Stationery,14,250,West
+2026-08-05,Study Desk,Furniture,1,12000,South
+2026-08-06,Smartphone,Electronics,2,22000,South
+2026-08-06,Study Desk,Furniture,2,12000,West
+2026-08-06,Pen Set,Stationery,25,250,South
+2026-08-07,Headphones,Electronics,2,3000,East
+2026-08-07,Study Desk,Furniture,1,12000,North
+2026-08-08,Smartphone,Electronics,3,22000,West
+2026-08-08,Pen Set,Stationery,25,250,West
+2026-08-11,Office Chair,Furniture,2,8500,South
+2026-08-13,Study Desk,Furniture,2,12000,West
+2026-08-13,Headphones,Electronics,3,3000,South
+2026-08-14,Headphones,Electronics,6,3000,South
+2026-08-14,Notebook,Stationery,28,120,South
+2026-08-14,Pen Set,Stationery,19,250,North
+2026-08-15,Notebook,Stationery,41,120,North
+2026-08-16,Pen Set,Stationery,23,250,South
+2026-08-16,Smartphone,Electronics,3,22000,North
+2026-08-16,Headphones,Electronics,4,3000,North
+2026-08-19,Notebook,Stationery,46,120,North
+2026-08-19,Headphones,Electronics,1,3000,West
+2026-08-19,Smartphone,Electronics,2,22000,South
+2026-08-20,Pen Set,Stationery,21,250,South
+2026-08-22,Laptop,Electronics,1,55000,South
+2026-08-24,Smartphone,Electronics,1,22000,West
+2026-08-24,Pen Set,Stationery,30,250,North
+2026-08-25,Headphones,Electronics,6,3000,North
+2026-08-27,Study Desk,Furniture,1,12000,South
+2026-08-27,Notebook,Stationery,14,120,West
+2026-08-28,Pen Set,Stationery,29,250,North
+2026-08-28,Headphones,Electronics,1,3000,South
+2026-08-28,Headphones,Electronics,4,3000,East
+2026-08-29,Smartphone,Electronics,2,22000,North
+2026-08-29,Smartphone,Electronics,2,22000,West
+2026-08-31,Pen Set,Stationery,26,250,West
+2026-08-31,Office Chair,Furniture,3,8500,East
+2026-08-31,Pen Set,Stationery,25,250,West
+2026-09-03,Laptop,Electronics,1,55000,North
+2026-09-04,Smartphone,Electronics,1,22000,North
+2026-09-04,Pen Set,Stationery,20,250,West
+2026-09-04,Pen Set,Stationery,24,250,South
+2026-09-05,Laptop,Electronics,1,55000,East
+2026-09-05,Notebook,Stationery,22,120,North
+2026-09-05,Pen Set,Stationery,20,250,North
+2026-09-06,Pen Set,Stationery,19,250,North
+2026-09-06,Notebook,Stationery,39,120,West
+2026-09-07,Pen Set,Stationery,28,250,South
+2026-09-08,Notebook,Stationery,26,120,South
+2026-09-08,Notebook,Stationery,12,120,South
+2026-09-08,Notebook,Stationery,51,120,South
+2026-09-09,Notebook,Stationery,13,120,South
+2026-09-09,Office Chair,Furniture,2,8500,East
+2026-09-10,Headphones,Electronics,6,3000,South
+2026-09-10,Office Chair,Furniture,1,8500,North
+2026-09-12,Smartphone,Electronics,1,22000,South
+2026-09-12,Notebook,Stationery,35,120,North
+2026-09-14,Smartphone,Electronics,3,22000,West
+2026-09-14,Pen Set,Stationery,20,250,West
+2026-09-15,Notebook,Stationery,13,120,South
+2026-09-15,Headphones,Electronics,6,3000,North
+2026-09-15,Pen Set,Stationery,28,250,South
+2026-09-16,Laptop,Electronics,1,55000,North
+2026-09-18,Laptop,Electronics,1,55000,West
+2026-09-18,Notebook,Stationery,59,120,West
+2026-09-18,Pen Set,Stationery,8,250,East
+2026-09-19,Smartphone,Electronics,3,22000,South
+2026-09-19,Headphones,Electronics,1,3000,West
+2026-09-19,Pen Set,Stationery,24,250,North
+2026-09-20,Smartphone,Electronics,2,22000,West
+2026-09-20,Office Chair,Furniture,3,8500,South
+2026-09-21,Pen Set,Stationery,13,250,South
+2026-09-22,Notebook,Stationery,35,120,South
+2026-09-22,Smartphone,Electronics,3,22000,East
+2026-09-23,Study Desk,Furniture,3,12000,East
+2026-09-24,Headphones,Electronics,3,3000,North
+2026-09-25,Smartphone,Electronics,1,22000,North
+2026-09-25,Headphones,Electronics,5,3000,South
+2026-09-25,Notebook,Stationery,15,120,North
+2026-09-25,Pen Set,Stationery,11,250,North
+2026-09-27,Headphones,Electronics,5,3000,West
+2026-09-28,Notebook,Stationery,18,120,South
+2026-09-28,Notebook,Stationery,13,120,North
+2026-09-28,Office Chair,Furniture,3,8500,South
+2026-09-29,Notebook,Stationery,23,120,North
+2026-09-30,Pen Set,Stationery,28,250,North
